@@ -1,3 +1,19 @@
-.App {
-  text-align: center;
+.container {
+  padding: 0 35%;
+  margin: 0 auto;
+  width: 30%;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: gray;
+  margin-left: 25px;
+}
+
+h4 {
+  color: darkolivegreen;
+  margin-left: 50px;
 }
